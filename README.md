@@ -4,7 +4,7 @@ Hello! My name is Julia, and I am a frontend developer with over 7 years of expe
 
 ## Work Experience
 
-I work at Hyperskill as a frontend expert. I collaborate with LX designers, content managers, and authors to review the existing program and design a market-aligned educational roadmap for frontend/full-stack program students.
+As a frontend expert, I work at the educational platform [Hyperskill](https://hyperskill.org/). I collaborate with LX designers, content managers, and authors to review the existing program and design a market-aligned educational roadmap for frontend/full-stack program students.
 
 ### Educational Activities
 Over the past few years, I have been actively engaged in mentoring. I worked on two educational platforms, guiding student groups in JavaScript and React courses. 
