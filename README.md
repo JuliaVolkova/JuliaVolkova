@@ -1,10 +1,6 @@
 # About me 👩‍💻
 
-Hello! My name is Julia, and I am a frontend developer with over 7 years of experience. My primary stack is **React** and **TypeScript**, and I am passionate about creating user interfaces. I enjoy being close to the users and directly impacting their experience by building intuitive and user-friendly interfaces. Creating exceptional UIs requires diverse knowledge, from design principles and user experience to performance optimization and understanding network and browser specifics. The rapid evolution of the web platform continues to be a constant source of inspiration for me.
-
-## Work Experience
-
-As a frontend expert, I work at the educational platform [Hyperskill](https://hyperskill.org/). I collaborate with LX designers, content managers, and authors to review the existing program and design a market-aligned educational roadmap for frontend/full-stack program students.
+Hello! My name is Julia, and I am a frontend developer with over 8 years of experience. My primary stack is **React** and **TypeScript**, and I am passionate about creating user interfaces. I enjoy being close to the users and directly impacting their experience by building intuitive and user-friendly interfaces. Creating exceptional UIs requires diverse knowledge, from design principles and user experience to performance optimization and understanding network and browser specifics. The rapid evolution of the web platform continues to be a constant source of inspiration for me.
 
 ### Educational Activities
 Over the past few years, I have been actively engaged in mentoring. I worked on two educational platforms, guiding student groups in JavaScript and React courses. 
